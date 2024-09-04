@@ -1,0 +1,29 @@
+# Ignorar diretórios do Windows e dados do sistema
+Ambiente de Impressão/
+Ambiente de Rede/
+AppData/
+Configurações Locais/
+Cookies/
+Documents/Meus Vídeos/
+Documents/Minhas Imagens/
+Documents/Minhas Músicas/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+
+# Ignorar arquivos temporários e de cache
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignorar arquivos de configuração específicos
+.VirtualBox/
+.bash_history
+.docker/
+.vagrant.d/
+
+# Ignorar todos os arquivos ocultos
+.*
