@@ -7,7 +7,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import matplotlib.pyplot as plt
-import numpy as np  # Importando a biblioteca NumPy
+import numpy as np  
 
 # Escopo para acessar a planilha do Google Sheets
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
