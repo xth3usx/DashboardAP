@@ -13,7 +13,7 @@ import numpy as np
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 # ID da planilha. A faixa de células será dinâmica
-SAMPLE_SPREADSHEET_ID = "14IkU4ZDRoDYraeV4DiPGShlnbCUYOszJiMR4eqHav8M"
+SAMPLE_SPREADSHEET_ID = ""
 
 def ping_ip(ip):
     try:
